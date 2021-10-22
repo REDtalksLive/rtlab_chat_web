@@ -28,7 +28,7 @@ use rtlab_chat
 2. Install your dependencies
 
     ```
-    cd path/to/rtlab-chat
+    cd path/to/rtlab_chat
     npm install
     ```
 
